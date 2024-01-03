@@ -1,4 +1,4 @@
-<img src="https://github.com/MuhammadAli-786/MuhammadAli-786/blob/main/Brown%20Modern%20Travel%20Facebook%20Cover.png" alt="logo" width="300">
+<img src="https://github.com/MuhammadAli-786/MuhammadAli-786/blob/main/Brown%20Modern%20Travel%20Facebook%20Cover.png" alt="logo" height="300">
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
