@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadAli-786&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadAli-786" /> </p>
 
-- ⚡ Fun fact **I am clam**
+- ⚡ **I am cool and clam 😌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
