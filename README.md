@@ -1,4 +1,5 @@
-![logo](https://github.com/MuhammadAli-786/MuhammadAli-786/blob/main/Brown%20Modern%20Travel%20Facebook%20Cover.png){:width="200px"}
+<img src="https://github.com/MuhammadAli-786/MuhammadAli-786/blob/main/Brown%20Modern%20Travel%20Facebook%20Cover.png" alt="logo" width="300">
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
